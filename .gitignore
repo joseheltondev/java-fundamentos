@@ -27,3 +27,8 @@ estrutura-sequencial/.classpath
 estrutura-sequencial/.project
 estrutura-sequencial/.settings/org.eclipse.core.resources.prefs
 estrutura-sequencial/.settings/org.eclipse.jdt.core.prefs
+estrutura-condicional/.settings/org.eclipse.jdt.core.prefs
+estrutura-condicional/.classpath
+estrutura-condicional/.project
+estrutura-condicional/.settings/org.eclipse.core.resources.prefs
+estrutura-condicional/src/teste.java

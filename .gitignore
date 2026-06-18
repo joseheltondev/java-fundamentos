@@ -10,7 +10,7 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.nar
@@ -19,16 +19,15 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Virtual machine crash logs
 hs_err_pid*
 replay_pid*
-/.metadata/
-estrutura-sequencial/.classpath
-estrutura-sequencial/.project
-estrutura-sequencial/.settings/org.eclipse.core.resources.prefs
-estrutura-sequencial/.settings/org.eclipse.jdt.core.prefs
-estrutura-condicional/.settings/org.eclipse.jdt.core.prefs
-estrutura-condicional/.classpath
-estrutura-condicional/.project
-estrutura-condicional/.settings/org.eclipse.core.resources.prefs
-estrutura-condicional/src/teste.java
+
+# Eclipse
+.metadata/
+**/.settings/
+**/.classpath
+**/.project
+
+# Arquivos temporários de teste
+**/teste.java
